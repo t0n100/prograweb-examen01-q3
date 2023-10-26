@@ -7,16 +7,15 @@ Repositorio para el primer examen 3r cuatrimestre 2023
 Se necesita una pagina para un centro de censos. Nuestro departamento de diseño grafico ha hecho este diseño el cual ya ha sido aprobado y vendido al cliente.
 
 1. Aplicacion web en angular.
-2. Pagina de bienvenida, un encabezado principal con mensaje de bienvenida, y uno secundario con los nombres de los estudiantes, todo en un cuadro centrado.
-3. Pagina de Formulario el cual debe tener los siguientes campos.
+2. Barra Navegacion con las opcionnes Home, y Formulario.
+3. Pagina de bienvenida, un encabezado principal con mensaje de bienvenida, y uno secundario con los nombres de los estudiantes, todo en un cuadro centrado.
+4. Pagina de Formulario el cual debe tener los siguientes campos.
  - Nombre *requerido.
  - Apellido 
  - Correo *requerido
  - Edad
  - Numero identificacion
-   
-5. Barra Navegacion con las opcionnes Home, y Formulario.
-6. Boton de continuar
+ - Boton de Enviar
 
 
 
@@ -29,7 +28,7 @@ Se necesita una pagina para un centro de censos. Nuestro departamento de diseño
 - 10% Formulario se ajusta al diseño
 - 10% Uso correcto de elementos de HTML. 
 - 10% Campos del formulario correctos con validacion nativa.
-- 10% Enviar los campos llenados a consola al hacer click.
+- 10% Enviar los campos llenados a consola al hacer click en Enviar.
  
 100%
  
