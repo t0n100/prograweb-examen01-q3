@@ -18,7 +18,11 @@ Se necesita una pagina para un centro de censos.
 - 15% clonar y actualizar correctamente el GIT, commit y Pull request.
 - 10% Inicializar correctamente el proyecto y todas sus dependecias.
 - 15% Uso correcto de clases components y controladores.
-- 15% Uso de clases de estylos
+- 15% Uso de clases de estilos
+- 15% Formulario se ajusta al diseño presentado.
+- 20% Campos del formulario correctos y con validacion nativa.
+- 10% Enviar los campos llenados a consola al hacer click.
+ 
 
  
 - * 2.5% BONO si añade un Angular Material.
